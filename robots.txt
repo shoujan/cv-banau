@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cv-banau-ai.shoujansapkota.com.np/sitemap.xml
